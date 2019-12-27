@@ -1,4 +1,4 @@
-# CSCI203
+# CSCI203 Hashing
 Final Assignment on element insertion in Hashing with Linear Probing
 
 # Methods
